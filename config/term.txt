@@ -1,0 +1,9 @@
+background color: #00172B
+cursor color: #009EFF
+transparent: 10%
+blue: 90%
+Font Family | HackMono Nerd Font
+Font Size | 25
+Base Theme | Solarized Dark
+InTerm | [MacOs] = iTerm2 | [Windows] = PowerShell |
+[Linux] = Gnome Terminal
